@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![Alt text](https://github.com/Ansuu7/Ansuu7/blob/c0a345bf5a66cae4626b950cb00d0014ae38c9ac/header.png)
 <!--
 **Ansuu7/Ansuu7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
